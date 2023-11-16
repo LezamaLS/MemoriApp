@@ -22,13 +22,14 @@ struct AniMenu: View {
                 .padding()
             HStack{
                 Button("Sonido"){
-                    
+                    reproducirSonido()
                 }
                 Button("Siguiente"){
                     siguienteAnimal()
                 }
             }
         }
+        .background(Image("gradientbg"))
     }
     
     func siguienteAnimal(){

@@ -15,40 +15,44 @@ struct GameView: View {
     @State var isComparing: Bool = false
     
     var body: some View {
-        HStack{
-            VStack{
-                ForEach(animalesIzq){animal in
-                    Image(animal.nombre)
-                        .resizable()
-                        .scaledToFit()
-                        .frame(width: 100, height: 100)
-                        .overlay {
-                            Color.black
-                                .opacity(isSelected(animal) ? 0:1)
-                        }
-                        .padding()
-                        .onTapGesture {
-                            animalSeleccionado(animal)
-                        }
+        VStack{
+            Text("Memoria")
+            HStack{
+                VStack{
+                    ForEach(animalesIzq){animal in
+                        Image(animal.nombre)
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 100, height: 100)
+                            .overlay {
+                                Color.black
+                                    .opacity(isSelected(animal) ? 0:1)
+                            }
+                            .padding()
+                            .onTapGesture {
+                                animalSeleccionado(animal)
+                            }
+                    }
                 }
-            }
-            VStack{
-                ForEach(animalesDer){animal in
-                    Image(animal.nombre)
-                        .resizable()
-                        .scaledToFit()
-                        .frame(width: 100, height: 100)
-                        .overlay {
-                            Color.black
-                                .opacity(isSelected(animal) ? 0:1)
-                        }
-                        .padding()
-                        .onTapGesture {
-                            animalSeleccionado(animal)
-                        }
+                VStack{
+                    ForEach(animalesDer){animal in
+                        Image(animal.nombre)
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 100, height: 100)
+                            .overlay {
+                                Color.black
+                                    .opacity(isSelected(animal) ? 0:1)
+                            }
+                            .padding()
+                            .onTapGesture {
+                                animalSeleccionado(animal)
+                            }
+                    }
                 }
             }
         }
+        .background(Image("gradientbg"))
         .onAppear{
             generarAnimales()
         }

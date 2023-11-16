@@ -7,20 +7,22 @@
 
 import SwiftUI
 
+
+
 struct HomeView: View {
     var body: some View {
+        
         NavigationView{
             VStack{
                 Text("MemoriApp")
                     .padding()
                     .font(.headline)
-                Button("Jugar", action: {
-                    
-                })
-                Button("Animalitos", action: {
-                    
-                })
-            }}
+                NavigationLink("Memoria", destination: GameView())
+                NavigationLink("Ver Animalitos", destination: AniMenu())
+            }
+            .background(Image("gradientbg"))
+        }
+        
     }
 }
 
@@ -29,3 +31,4 @@ struct ContentView_Previews: PreviewProvider {
         HomeView()
     }
 }
+

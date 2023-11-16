@@ -14,16 +14,16 @@
 		2FE737022B0480A90076F1C9 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE737012B0480A90076F1C9 /* GameView.swift */; };
 		2FE737042B0480E00076F1C9 /* Animaluwu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE737032B0480E00076F1C9 /* Animaluwu.swift */; };
 		2FE737062B05C2810076F1C9 /* AniMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE737052B05C2810076F1C9 /* AniMenu.swift */; };
-		2FE737122B05C7470076F1C9 /* delfin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE737082B05C7420076F1C9 /* delfin.mp3 */; };
-		2FE737132B05C7470076F1C9 /* pato.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE737092B05C7430076F1C9 /* pato.mp3 */; };
-		2FE737142B05C7470076F1C9 /* leon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7370A2B05C7430076F1C9 /* leon.mp3 */; };
-		2FE737152B05C7470076F1C9 /* borrego.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7370B2B05C7440076F1C9 /* borrego.mp3 */; };
-		2FE737162B05C7470076F1C9 /* perro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7370C2B05C7440076F1C9 /* perro.mp3 */; };
-		2FE737172B05C7470076F1C9 /* foca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7370D2B05C7450076F1C9 /* foca.mp3 */; };
-		2FE737182B05C7470076F1C9 /* rana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7370E2B05C7450076F1C9 /* rana.mp3 */; };
-		2FE737192B05C7470076F1C9 /* tigre.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7370F2B05C7450076F1C9 /* tigre.mp3 */; };
-		2FE7371A2B05C7470076F1C9 /* gato.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE737102B05C7460076F1C9 /* gato.mp3 */; };
-		2FE7371B2B05C7470076F1C9 /* vaca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE737112B05C7470076F1C9 /* vaca.mp3 */; };
+		2FE737252B05D8EC0076F1C9 /* borrego.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7371C2B05D8E90076F1C9 /* borrego.mp3 */; };
+		2FE737262B05D8EC0076F1C9 /* perro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7371D2B05D8EA0076F1C9 /* perro.mp3 */; };
+		2FE737272B05D8EC0076F1C9 /* tigre.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7371E2B05D8EA0076F1C9 /* tigre.mp3 */; };
+		2FE737282B05D8EC0076F1C9 /* leon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7371F2B05D8EA0076F1C9 /* leon.mp3 */; };
+		2FE737292B05D8EC0076F1C9 /* foca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE737202B05D8EB0076F1C9 /* foca.mp3 */; };
+		2FE7372A2B05D8EC0076F1C9 /* pato.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE737212B05D8EB0076F1C9 /* pato.mp3 */; };
+		2FE7372B2B05D8EC0076F1C9 /* delfin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE737222B05D8EB0076F1C9 /* delfin.mp3 */; };
+		2FE7372C2B05D8EC0076F1C9 /* vaca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE737232B05D8EB0076F1C9 /* vaca.mp3 */; };
+		2FE7372D2B05D8EC0076F1C9 /* rana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE737242B05D8EC0076F1C9 /* rana.mp3 */; };
+		2FE7372F2B05D9460076F1C9 /* gato.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2FE7372E2B05D9450076F1C9 /* gato.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,16 +35,16 @@
 		2FE737012B0480A90076F1C9 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 		2FE737032B0480E00076F1C9 /* Animaluwu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animaluwu.swift; sourceTree = "<group>"; };
 		2FE737052B05C2810076F1C9 /* AniMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AniMenu.swift; sourceTree = "<group>"; };
-		2FE737082B05C7420076F1C9 /* delfin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = delfin.mp3; sourceTree = "<group>"; };
-		2FE737092B05C7430076F1C9 /* pato.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pato.mp3; sourceTree = "<group>"; };
-		2FE7370A2B05C7430076F1C9 /* leon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = leon.mp3; sourceTree = "<group>"; };
-		2FE7370B2B05C7440076F1C9 /* borrego.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = borrego.mp3; sourceTree = "<group>"; };
-		2FE7370C2B05C7440076F1C9 /* perro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = perro.mp3; sourceTree = "<group>"; };
-		2FE7370D2B05C7450076F1C9 /* foca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = foca.mp3; sourceTree = "<group>"; };
-		2FE7370E2B05C7450076F1C9 /* rana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = rana.mp3; sourceTree = "<group>"; };
-		2FE7370F2B05C7450076F1C9 /* tigre.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tigre.mp3; sourceTree = "<group>"; };
-		2FE737102B05C7460076F1C9 /* gato.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gato.mp3; sourceTree = "<group>"; };
-		2FE737112B05C7470076F1C9 /* vaca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vaca.mp3; sourceTree = "<group>"; };
+		2FE7371C2B05D8E90076F1C9 /* borrego.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = borrego.mp3; sourceTree = "<group>"; };
+		2FE7371D2B05D8EA0076F1C9 /* perro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = perro.mp3; sourceTree = "<group>"; };
+		2FE7371E2B05D8EA0076F1C9 /* tigre.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tigre.mp3; sourceTree = "<group>"; };
+		2FE7371F2B05D8EA0076F1C9 /* leon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = leon.mp3; sourceTree = "<group>"; };
+		2FE737202B05D8EB0076F1C9 /* foca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = foca.mp3; sourceTree = "<group>"; };
+		2FE737212B05D8EB0076F1C9 /* pato.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pato.mp3; sourceTree = "<group>"; };
+		2FE737222B05D8EB0076F1C9 /* delfin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = delfin.mp3; sourceTree = "<group>"; };
+		2FE737232B05D8EB0076F1C9 /* vaca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vaca.mp3; sourceTree = "<group>"; };
+		2FE737242B05D8EC0076F1C9 /* rana.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = rana.mp3; sourceTree = "<group>"; };
+		2FE7372E2B05D9450076F1C9 /* gato.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gato.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,16 +100,16 @@
 		2FE737072B05C6800076F1C9 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				2FE7370B2B05C7440076F1C9 /* borrego.mp3 */,
-				2FE737082B05C7420076F1C9 /* delfin.mp3 */,
-				2FE7370D2B05C7450076F1C9 /* foca.mp3 */,
-				2FE737102B05C7460076F1C9 /* gato.mp3 */,
-				2FE7370A2B05C7430076F1C9 /* leon.mp3 */,
-				2FE737092B05C7430076F1C9 /* pato.mp3 */,
-				2FE7370C2B05C7440076F1C9 /* perro.mp3 */,
-				2FE7370E2B05C7450076F1C9 /* rana.mp3 */,
-				2FE7370F2B05C7450076F1C9 /* tigre.mp3 */,
-				2FE737112B05C7470076F1C9 /* vaca.mp3 */,
+				2FE7371C2B05D8E90076F1C9 /* borrego.mp3 */,
+				2FE7372E2B05D9450076F1C9 /* gato.mp3 */,
+				2FE737222B05D8EB0076F1C9 /* delfin.mp3 */,
+				2FE737202B05D8EB0076F1C9 /* foca.mp3 */,
+				2FE7371F2B05D8EA0076F1C9 /* leon.mp3 */,
+				2FE737212B05D8EB0076F1C9 /* pato.mp3 */,
+				2FE7371D2B05D8EA0076F1C9 /* perro.mp3 */,
+				2FE737242B05D8EC0076F1C9 /* rana.mp3 */,
+				2FE7371E2B05D8EA0076F1C9 /* tigre.mp3 */,
+				2FE737232B05D8EB0076F1C9 /* vaca.mp3 */,
 			);
 			path = Sounds;
 			sourceTree = "<group>";
@@ -172,18 +172,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FE737292B05D8EC0076F1C9 /* foca.mp3 in Resources */,
+				2FE7372C2B05D8EC0076F1C9 /* vaca.mp3 in Resources */,
 				2FE736FB2B047D990076F1C9 /* Preview Assets.xcassets in Resources */,
-				2FE737152B05C7470076F1C9 /* borrego.mp3 in Resources */,
-				2FE737182B05C7470076F1C9 /* rana.mp3 in Resources */,
-				2FE737142B05C7470076F1C9 /* leon.mp3 in Resources */,
-				2FE737192B05C7470076F1C9 /* tigre.mp3 in Resources */,
-				2FE7371B2B05C7470076F1C9 /* vaca.mp3 in Resources */,
-				2FE737122B05C7470076F1C9 /* delfin.mp3 in Resources */,
-				2FE737132B05C7470076F1C9 /* pato.mp3 in Resources */,
-				2FE7371A2B05C7470076F1C9 /* gato.mp3 in Resources */,
-				2FE737162B05C7470076F1C9 /* perro.mp3 in Resources */,
+				2FE7372A2B05D8EC0076F1C9 /* pato.mp3 in Resources */,
+				2FE737252B05D8EC0076F1C9 /* borrego.mp3 in Resources */,
+				2FE7372F2B05D9460076F1C9 /* gato.mp3 in Resources */,
+				2FE7372D2B05D8EC0076F1C9 /* rana.mp3 in Resources */,
+				2FE737282B05D8EC0076F1C9 /* leon.mp3 in Resources */,
 				2FE736F82B047D990076F1C9 /* Assets.xcassets in Resources */,
-				2FE737172B05C7470076F1C9 /* foca.mp3 in Resources */,
+				2FE737262B05D8EC0076F1C9 /* perro.mp3 in Resources */,
+				2FE7372B2B05D8EC0076F1C9 /* delfin.mp3 in Resources */,
+				2FE737272B05D8EC0076F1C9 /* tigre.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
